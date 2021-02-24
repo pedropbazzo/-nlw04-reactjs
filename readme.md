@@ -51,9 +51,9 @@
 
 <h2 align="left"> 📥 Layout available for download at: </h2>
 <p align="center">
-    <a title="Download .fig Web" href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=160:2761">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
-    </a>
+  <a href="https://www.figma.com/file/n9J6604nMGB7Cgt2vEVtWb/Move.it-1.0-Dark-Mode">
+    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
 </p>
 
 <!-- # :eyes: Demo Website
