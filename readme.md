@@ -79,7 +79,7 @@ This project was made using the follow technologies:
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/pedropbazzo/move.it.git
+$ git clone https://github.com/pedropbazzo/-nlw04-reactjs/issues
 ```
 
 ### 💻 Run Web Project
@@ -96,14 +96,14 @@ Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Move.it](https://github.com/pedropbazzo/move.it/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Move.it](https://github.com/pedropbazzo/-nlw04-reactjs/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 # :tada: Contributing
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
 Here's some tips:
 
-* Check the [issues page](https://github.com/pedropbazzo/move.it/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+* Check the [issues page](https://github.com/pedropbazzo/-nlw04-reactjs/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
 * Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
 Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
