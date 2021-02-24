@@ -32,7 +32,7 @@
 <div align="center">
   <sub>The NLW #4 project. Built with ❤︎ by
     <a href="https://github.com/pedropbazzo">Pedro Bazzo</a> and
-    <a href="https://github.com/pedropbazzo/move.it/graphs/contributors">
+    <a href="https://github.com/pedropbazzo/-nlw04-reactjs/graphs/contributors">
       contributors
     </a>
   </sub>
