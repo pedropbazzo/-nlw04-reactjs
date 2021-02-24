@@ -55,11 +55,6 @@
     </a>
 </p>
 
-<div>
-   <img src="" width="400px">
-   <img src="" width="400px">
-</div>
-
 <!-- # :eyes: Demo Website
 👉  demo: https://moveit-nlw.vercel.app/ -->
 
@@ -79,7 +74,7 @@ This project was made using the follow technologies:
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/pedropbazzo/-nlw04-reactjs/issues
+$ git clone https://github.com/pedropbazzo/-nlw04-reactjs.git
 ```
 
 ### 💻 Run Web Project
