@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/pedropbazzo/-nlw04-reactjs/master/public/favicon.png" alt="Move It" width="300"/>
+   <img src="https://raw.githubusercontent.com/pedropbazzo/-nlw04-reactjs/master/public/favicon.png" alt="Move It" width="60"/>
 </p>
 
 <p align="center">	
